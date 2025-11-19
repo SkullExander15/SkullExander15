@@ -1,0 +1,42 @@
+#Specials {
+    
+    width: 50%;
+    height: 90%;
+    position:absolute;
+    top: 50%;
+    bottom: 50%;
+    border: rgb(255, 255, 255);
+    background-color:rgb(65, 232, 254);
+    overflow: auto;
+    left: 25%;
+    display: none;
+}
+      
+      
+      body {
+            background-color: rgb(59, 200, 218);
+            font-size: 20px; }   
+    .center { 
+  text-align: center;   font-size: 250%;
+}
+    .benter { 
+  text-align: center;   font-size: 150%;
+    }
+      .right{ 
+  text-align: right;
+    }
+        .left{ 
+  text-align: left;
+        }
+        .bold{ 
+  text-decoration-thickness:75 ;
+        }
+  .large-text {
+  font-size: 250%;
+  }
+
+ul {
+    width: 22em;
+    margin: 0;
+    margin-left: calc(50% - 11em + 2em);
+}
